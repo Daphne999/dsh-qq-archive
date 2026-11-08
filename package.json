@@ -1,6 +1,6 @@
 {
   "name": "dsh-qq-archive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Local searchable archive of DSH chat history: decodes the multi-frame zstd session logs, extracts user/assistant messages into SQLite, and exposes search/stats tools. | 把会话日志归档成本地可检索的聊天库（多帧 zstd 逐帧解码 + SQLite）。",
   "type": "module",
   "main": "lib/index.js",
